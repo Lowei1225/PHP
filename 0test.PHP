@@ -1,4 +1,4 @@
-#1
 <?php 
-  phpinfo(); 
+  phpinfo(); #確認php是否正常運行
 ?>
+
